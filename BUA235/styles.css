@@ -1,0 +1,12 @@
+body { background: white;
+    color: black;}
+a { color: blue;
+    text-decoration: none }
+
+a:hover { color: red }
+
+a {display: block;
+    margin-left: 42%;
+    margin-right: auto;}
+body { font-family: 'Staatliches', sans-serif; }
+
